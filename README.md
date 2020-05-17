@@ -1,7 +1,7 @@
 
 # Hanabi Comparisons: AI in a Multi-Agent Cooperative Hidden Information Setting
 
-This code was used for my undergraduate thesis. The Hanabi SPARTA repo was forked from:
+This code was used for my undergraduate thesis. The Hanabi SPARTA repo was forked from commit 88edc9f from:
 
 
 > A. Lerer, H. Hu, J. Foerster, and N. Brown, “Improving policies via
